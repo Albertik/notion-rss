@@ -1,5 +1,5 @@
 # notion-rss
-Get RSS feeds in notion.so daily
+Get RSS feeds in notion.so daily (test)
 
 ## Overview
 notion-rss lets you manage and retrieve all your RSS feeds in Notion.so.
